@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asx version="3.0">
+  <title>Radio</title>
+  <entry>
+    <ref href="http://radiostream.pl/tuba10-1.mp3?cache=1589834951_e1_"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/pl/tokfm/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/pl/radiormf/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/ua/radio.roks/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/ua/pershykanal/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/de/wdr4/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/de/bayern1/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/de/deutschlandfunk/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/pl/kampus971/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/pl/antyradio94/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://onlineradiobox.com/json/pl/smoothjazzpoland/play?platform=web"/>
+  </entry>
+  <entry>
+    <ref href="https://pl-play.adtonos.com/rock-radio"/>
+  </entry>
+  <entry>
+    <ref href="http://hearme.fm:8738/stream"/>
+  </entry>
+  <entry>
+    <ref href="http://ais-edge23-dal02.cdnstream.com/2329_128_fall2.mp3"/>
+  </entry>
+  <entry>
+    <ref href="http://funkyradio.streamingmedia.it:8001/play.mp3"/>
+  </entry>
+  <entry>
+    <ref href="http://junctionpoland.com:8000/mp3-128"/>
+  </entry>
+  <entry>
+    <ref href="http://junctionpoland.com:8000/128.ogg"/>
+  </entry>
+  <entry>
+    <ref href="http://junctionpoland.com:8000/aac-320"/>
+  </entry>
+  <entry>
+    <ref href="http://kvnovm-hd3.unomaha.edu:8000/listen.aac"/>
+  </entry>
+  <entry>
+    <ref href="https://stream.laut.fm/1000hamburg"/>
+  </entry>
+  <entry>
+    <ref href="http://136.243.90.85:8000/64"/>
+  </entry>
+  <entry>
+    <ref href="http://kathy.torontocast.com:1320/stream"/>
+  </entry>
+  <entry>
+    <ref href="http://manager7.streamradio.fr:1430/stream"/>
+  </entry>
+  <entry>
+    <ref href="https://www.youtube.com/watch?v=ivcSVG5eCeQ"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.119.111:8002/stonerrock"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.119.111:8000/psychedelicrock"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.14.76:8002/dub"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.119.111:8002/skapunk"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.119.111:8002/ska"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.14.76:8002/acidjazz"/>
+  </entry>
+  <entry>
+    <ref href="http://213.141.131.10:8002/crossoverjazz"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.119.111:8002/avantgardejazz"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.77.11:8002/mcreative"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.12.130:8002/freefunk"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.119.111:8002/latinjazz"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.14.76:8002/mainstreamjazz"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.39.202:8002/ethnojazz"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.39.202:8002/groovemetal"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.14.76:8002/doom"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.12.130:8002/nwobhm"/>
+  </entry>
+  <entry>
+    <ref href="http://213.141.131.10:8002/jazzmetal"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.77.11:8002/stonermetal"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.77.11:8002/thrashmetal"/>
+  </entry>
+  <entry>
+    <ref href="http://213.141.131.10:8002/crossoverthrash"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.39.202:8002/postpunk"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.119.111:8002/stonerrock"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.39.202:8002/grunge"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.77.11:8002/punk"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.77.11:8002/hardrock"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.14.76:8002/drumbass"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.14.76:8002/metalstep"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.14.76:8002/triphop"/>
+  </entry>
+  <entry>
+    <ref href="http://79.120.39.202:8002/deephouse"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.14.76:8002/lo-fi"/>
+  </entry>
+  <entry>
+    <ref href="http://79.111.119.111:8002/funk"/>
+  </entry>
+</asx>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista odtwarzania</title>
+	<trackList>
+		<track>
+			<location>http://cabhs37.sonixcast.com:80/9172</location>
+			<title>JazzRepublicRadio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming207.radionomy.com:80/4u-smooth-jazz</location>
+			<title>4USmoothJazz</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://cabhs32.sonixcast.com:80/9442</location>
+			<title>Very Vintage Jazz</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://cabhs37.sonixcast.com:80/9172</location>
+			<title>JazzRepublicRadio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming207.radionomy.com:80/4u-smooth-jazz</location>
+			<title>4USmoothJazz</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://cabhs32.sonixcast.com:80/9442</location>
+			<title>Very Vintage Jazz</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://cabhs37.sonixcast.com:80/9172</location>
+			<title>JazzRepublicRadio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming207.radionomy.com:80/4u-smooth-jazz</location>
+			<title>4USmoothJazz</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://cabhs32.sonixcast.com:80/9442</location>
+			<title>Very Vintage Jazz</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://listen-eu.uturnradio.com:80/drum_and_bass_32</location>
+			<title>Drum and Bass) Uturn Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming307.radionomy.com:80/pandapopradio</location>
+			<title>Pandapopradio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://brokenbeats.net:8000/radiosource</location>
+			<title>Brokenbeats.net - Atmospheric Drum&#39;n&#39;Base DNB s0urce</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://r.ezbt.me:80/bassdrive</location>
+			<title>Bassdrive - Worldwide Drum and Bass Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://212.83.172.11:9301/live</location>
+			<title>NuJungle Radio - Channel #1 - The Dubwise Drum &amp; Bass Channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.radioking.com/play/dubn-core/57757</location>
+			<title>DubNCore</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://sc2.dubplate.fm:8000/dubandbass/hifi_autodj</location>
+			<title>Dubplate.fm - Dub &amp; Bass 192k</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+	</extension>
+</playlist>
